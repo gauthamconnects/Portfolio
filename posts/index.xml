@@ -9,18 +9,12 @@
     <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gauthamconnects.github.io/Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Day 3</title>
+      <title>Hosting the site</title>
       <link>https://gauthamconnects.github.io/Portfolio/posts/hosting-the-site/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://gauthamconnects.github.io/Portfolio/posts/hosting-the-site/</guid>
-      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;
-  
-  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
-    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
-    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/h2&gt;</description>
+      <description>So the site is designed as I wanted and now its time to host it on github pages and make it public so that people can access it.
+I created a github repository named Portfolio so that the necessary files can be uploaded there to host the site.Before that I have to convert the markdown(.md) files into HTML,JavaScript,CSS etc.. to do that I gave &amp;ldquo;canonifyURLs=true&amp;rdquo; in the &amp;ldquo;config.toml&amp;rdquo; file of the root directory.</description>
     </item>
     <item>
       <title>Designing The Site</title>
