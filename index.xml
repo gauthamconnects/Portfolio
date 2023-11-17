@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gauthamkrishna N</title>
+    <link>https://gauthamconnects.github.io/Portfolio/</link>
+    <description>Recent content on Gauthamkrishna N</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gauthamconnects.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://gauthamconnects.github.io/Portfolio/about/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/about/</guid>
+      <description>Hey there! Myself Gauthamkrishna N,a guy who is exploring the different realms of Computer Science looking for ways to build my skills and knowledge.I am currently navigating through my Btech journey as I am pursuing Btech in Computer Science at Amrita VishwaVidyapeetham,Amritapuri Campus.
+I like to immerse myself in coding and I love it when my skills are put to the test and I am being challenged which itslef helps me expand my knowledge and give a massive boost to my prolem solving skills which I believe is the most important skill I have to develop to be establish myself in the tech field.</description>
+    </item>
+    <item>
+      <title>Day 3</title>
+      <link>https://gauthamconnects.github.io/Portfolio/posts/hosting-the-site/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/posts/hosting-the-site/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Designing The Site</title>
+      <link>https://gauthamconnects.github.io/Portfolio/posts/desgning-the-site/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/posts/desgning-the-site/</guid>
+      <description>So now that the site is set up locally to be designed as per my wish I did start making changes and the main page of the site looked like this at first.
+Main Page Link to heading First of all I decided to make changes in the main page.To do that I opened &amp;ldquo;config.toml&amp;rdquo; in the root directory then changed the title,author,description,keywords,info etc.. and I also replaced the avatar image with a picture of myself after adding my picture to the images folder in the static directory and mentioning the path to the image in &amp;ldquo;config.</description>
+    </item>
+    <item>
+      <title>Setting up the site</title>
+      <link>https://gauthamconnects.github.io/Portfolio/posts/setting-up-the-site/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/posts/setting-up-the-site/</guid>
+      <description>As I didn&amp;rsquo;t have any prior knowledge about hugo my first step was to get to know about hugo and how it works before using it to build a website as the task asks me to do.So I googled about hugo,visited the official site and saw a few Youtube videos of using hugo themes to build a portfolio site.
+So now I had to install hugo into my system and used &amp;ldquo;sudo apt-get install git&amp;rdquo; to install hugo using the terminal.</description>
+    </item>
+    <item>
+      <title>temas</title>
+      <link>https://gauthamconnects.github.io/Portfolio/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/categoria/temas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sintaxe</title>
+      <link>https://gauthamconnects.github.io/Portfolio/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://gauthamconnects.github.io/Portfolio/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://gauthamconnects.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/contact/</guid>
+      <description> Get in touch with me on the following platforms.
+Platform Contacts Instagram: https://www.instagram.com/the_real_gautham/ LinkedIn: https://www.linkedin.com/in/gauthamkrishna-n-0a3975289/ GitHub: https://github.com/gauthamconnects Gmail: gauthamconnects@gmail.com Twitter: https://twitter.com/gauthamconnects Phone: +918590887661 </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://gauthamconnects.github.io/Portfolio/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/projects/</guid>
+      <description>Checkout My Github Profile To See My Works.
+GitHub:	gauthamconnects</description>
+    </item>
+  </channel>
+</rss>

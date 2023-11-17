@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gauthamkrishna N</title>
+    <link>https://gauthamconnects.github.io/Portfolio/posts/</link>
+    <description>Recent content in Posts on Gauthamkrishna N</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gauthamconnects.github.io/Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 3</title>
+      <link>https://gauthamconnects.github.io/Portfolio/posts/hosting-the-site/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/posts/hosting-the-site/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+  
+  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
+    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Designing The Site</title>
+      <link>https://gauthamconnects.github.io/Portfolio/posts/desgning-the-site/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/posts/desgning-the-site/</guid>
+      <description>So now that the site is set up locally to be designed as per my wish I did start making changes and the main page of the site looked like this at first.
+Main Page Link to heading First of all I decided to make changes in the main page.To do that I opened &amp;ldquo;config.toml&amp;rdquo; in the root directory then changed the title,author,description,keywords,info etc.. and I also replaced the avatar image with a picture of myself after adding my picture to the images folder in the static directory and mentioning the path to the image in &amp;ldquo;config.</description>
+    </item>
+    <item>
+      <title>Setting up the site</title>
+      <link>https://gauthamconnects.github.io/Portfolio/posts/setting-up-the-site/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/posts/setting-up-the-site/</guid>
+      <description>As I didn&amp;rsquo;t have any prior knowledge about hugo my first step was to get to know about hugo and how it works before using it to build a website as the task asks me to do.So I googled about hugo,visited the official site and saw a few Youtube videos of using hugo themes to build a portfolio site.
+So now I had to install hugo into my system and used &amp;ldquo;sudo apt-get install git&amp;rdquo; to install hugo using the terminal.</description>
+    </item>
+  </channel>
+</rss>

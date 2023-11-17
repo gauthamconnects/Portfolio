@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gauthamkrishna N</title>
+    <link>https://gauthamconnects.github.io/Portfolio/tags/</link>
+    <description>Recent content in Tags on Gauthamkrishna N</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gauthamconnects.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>https://gauthamconnects.github.io/Portfolio/tags/css/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html</title>
+      <link>https://gauthamconnects.github.io/Portfolio/tags/html/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>https://gauthamconnects.github.io/Portfolio/tags/hugo/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>markdown</title>
+      <link>https://gauthamconnects.github.io/Portfolio/tags/markdown/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://gauthamconnects.github.io/Portfolio/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>https://gauthamconnects.github.io/Portfolio/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
